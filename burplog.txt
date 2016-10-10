@@ -1,0 +1,33 @@
+======================================================
+15:44:30  http://192.168.1.106:80
+======================================================
+POST /sqli-labs/Less-11/index.php?id=1 HTTP/1.1
+Host: 192.168.1.106
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.1.106/sqli-labs/Less-11/index.php?id=1
+Cookie: PHPSESSID=e57u7ujob9icrga5p0663rnju5; security=low
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 34
+
+
+uname=aaa&passwd=bbb&submit=Submit
+======================================================
+
+======================================================
+15:45:02  http://192.168.1.106:80
+======================================================
+GET /sqli-labs/Less-12/index.php?id=1 HTTP/1.1
+Host: 192.168.1.106
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: PHPSESSID=e57u7ujob9icrga5p0663rnju5; security=low
+Connection: keep-alive
+
+
+======================================================
